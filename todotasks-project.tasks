@@ -20,7 +20,7 @@ To Do Tasks Extension:
 		✔ @high Write unit tests @done
 		☐ @medium Write scenario based tests
 	Publishing:
-		✔ Wirte third party notices file for using open source projects @done
+		✔ Write third party notices file for using open source projects @done
 		☐ Write README.md for the extension
 		☐ Clean up the text mate grammar file
 		☐ Clean up the package.josn file
